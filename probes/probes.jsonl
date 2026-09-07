@@ -1,0 +1,8 @@
+{"input": "", "expect": "", "raised": false, "task": "crypto-square", "lang": "rust"}
+{"input": "... --- ...", "expect": "", "raised": false, "task": "crypto-square", "lang": "rust"}
+{"input": "A", "expect": "a", "raised": false, "task": "crypto-square", "lang": "rust"}
+{"input": "  b ", "expect": "b", "raised": false, "task": "crypto-square", "lang": "rust"}
+{"input": "@1,%!", "expect": "1", "raised": false, "task": "crypto-square", "lang": "rust"}
+{"input": "This is fun!", "expect": "tsf hiu isn", "raised": false, "task": "crypto-square", "lang": "rust"}
+{"input": "Chill out.", "expect": "clu hlt io ", "raised": false, "task": "crypto-square", "lang": "rust"}
+{"input": "If man was meant to stay on the ground, god would have given us roots.", "expect": "imtgdvs fearwer mayoogo anouuio ntnnlvt wttddes aohghn  sseoau ", "raised": false, "task": "crypto-square", "lang": "rust"}
